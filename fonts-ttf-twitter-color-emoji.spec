@@ -16,6 +16,7 @@ BuildRequires: inkscape
 BuildRequires: potrace
 BuildRequires: make
 BuildRequires: python%{py_ver}dist(fonttools) >= 4.7.0
+BuildRequires: python%{py_ver}dist(yaml)
 BuildRequires: nodejs-svgo
 BuildRequires: fontforge fontforge-python
 BuildArch: noarch
