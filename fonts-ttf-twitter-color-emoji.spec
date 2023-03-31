@@ -1,6 +1,6 @@
 Name: fonts-ttf-twitter-color-emoji
 Version: 14.0.2
-Release: 1
+Release: 2
 Source0: https://github.com/eosrei/twemoji-color-font/archive/refs/heads/master.tar.gz#/twemoji-color-font.tar.gz
 Source1: https://github.com/twitter/twemoji/archive/refs/tags/v%{version}.tar.gz
 Source2: https://github.com/13rac1/scfbuild/archive/refs/heads/master.tar.gz#/scfbuild.tar.gz
